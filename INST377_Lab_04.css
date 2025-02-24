@@ -1,0 +1,26 @@
+/* body section */
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    transition: background-color 0.3s;
+}
+
+/* container section */
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* section...section */
+.section {
+    border: 2px solid white;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 20px;
+    width: 40%;
+    box-sizing: border-box;
+    background-color: purple;
+    color: white;
+}
